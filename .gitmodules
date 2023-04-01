@@ -1,0 +1,12 @@
+[submodule "terraform/modules/terraform-module-aws-vpc"]
+	path = terraform/modules/terraform-module-aws-vpc
+	url = https://github.com/mbrydak/terraform-module-aws-vpc
+[submodule "terraform/modules/terraform-module-aws-puppet-server-complete"]
+	path = terraform/modules/terraform-module-aws-puppet-server-complete
+	url = https://github.com/mbrydak/terraform-module-aws-puppet-server-complete
+[submodule "terraform/modules/terraform-module-aws-puppet-agent-complete"]
+	path = terraform/modules/terraform-module-aws-puppet-agent-complete
+	url = https://github.com/mbrydak/terraform-module-aws-puppet-agent-complete
+[submodule "terraform/modules/terraform-module-aws-bastion"]
+	path = terraform/modules/terraform-module-aws-bastion
+	url = https://github.com/mbrydak/terraform-module-aws-bastion
